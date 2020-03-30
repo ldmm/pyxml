@@ -1,0 +1,9 @@
+<cities date="2019-06-12">
+  <country id="can" name="canada">
+    <city id="yyj" name="Victoria"/>
+    <city id="yyz" name="Toronto"/>
+  </country>
+  <country id="ECU" name="Ecuador">
+    <city id="GYE" name="Guayaquil"/>
+  </country>
+</cities>

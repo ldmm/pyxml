@@ -1,0 +1,85 @@
+<words>
+  <character name="#First_Musician"/>
+  <character name="#Herald"/>
+  <character name="#Lodovico"/>
+  <character name="#Sailor"/>
+  <character name="#Othello">
+    <term token="circumscription"/>
+    <term token="night-brawler?"/>
+    <term token="fortification,"/>
+    <term token="spirit-stirring"/>
+    <term token="--Handkerchief--confessions--handkerchief!--To"/>
+    <term token="labour;--first,"/>
+    <term token="possible?--Confess--handkerchief!--O"/>
+    <term token="Cyprus.--Goats"/>
+    <term token="O,--Desdemona,--"/>
+    <term token="insupportable!"/>
+    <term token="thunder?--Precious"/>
+  </character>
+  <character name="#Emilia">
+    <term token="state-matters,"/>
+  </character>
+  <character name="#Bianca">
+    <term token="circumstanced."/>
+  </character>
+  <character name="#All"/>
+  <character name="#Brabantio">
+    <term token="preposterously"/>
+    <term token="state-affairs:"/>
+  </character>
+  <character name="#Cassio">
+    <term token="haste-post-haste"/>
+    <term token="fellowship--But,"/>
+    <term token="notwithstanding,"/>
+    <term token="entertainment."/>
+    <term token="affairs.--Forgive"/>
+    <term token="sins!--Gentlemen,"/>
+  </character>
+  <character name="#Gratiano"/>
+  <character name="#Second_Gentleman"/>
+  <character name="#Second_Senator">
+    <term token="difference--yet"/>
+  </character>
+  <character name="#Iago">
+    <term token="arithmetician,"/>
+    <term token="counter-caster,"/>
+    <term token="sequestration:--put"/>
+    <term token="guard:--first,"/>
+    <term token="this--Desdemona"/>
+    <term token="Hollander--Drink,"/>
+    <term token="lieutenant,--alas,"/>
+    <term token="ho!--Lieutenant,--sir,--Montano,--sir;"/>
+    <term token="masters!--Here's"/>
+    <term token="bell?--Diablo,"/>
+    <term token="Lieutenant,--sir--Montano,--gentlemen,--"/>
+    <term token="contemplation,"/>
+    <term token="witchcraft--but"/>
+    <term token="circumstances,"/>
+    <term token="handkerchief--"/>
+    <term token="handkerchief,--"/>
+  </character>
+  <character name="#First_Officer"/>
+  <character name="#Third_Gentleman"/>
+  <character name="#(stage_directions)"/>
+  <character name="#Roderigo"/>
+  <character name="#Montano"/>
+  <character name="#Desdemona">
+    <term token="reconciliation"/>
+    <term token="dispraisingly,"/>
+    <term token="divorcement--love"/>
+  </character>
+  <character name="#Gentleman"/>
+  <character name="#Clown">
+    <term token="wind-instruments?"/>
+    <term token="wind-instrument"/>
+  </character>
+  <character name="#Duke_of_Venice">
+    <term token="post-post-haste"/>
+  </character>
+  <character name="#Messenger"/>
+  <character name="#Fourth_Gentleman"/>
+  <character name="#First_Gentleman"/>
+  <character name="#First_Senator">
+    <term token="disproportion'd;"/>
+  </character>
+</words>
